@@ -242,7 +242,8 @@ strong {
 
 @media (max-width:850px) {
   .container {
-    padding: 40px 60px;
+    padding: 60px 30px;
+    min-width:280px;
   }
 }
 
